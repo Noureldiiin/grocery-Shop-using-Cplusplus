@@ -1,0 +1,8 @@
+Apples,20,E:\Multimedia\LabTask\Apples.jpg,DarkRed
+Oranges,15,E:\Multimedia\LabTask\Oranges.jpg,Orange
+Bananas,30,E:\Multimedia\LabTask\Bananas.jpg,Yellow
+Mangos,40,E:\Multimedia\LabTask\Mangos.jpg,DarkOrange
+Strawberries,35,E:\Multimedia\LabTask\Strawberries.jpg,Red
+Kiwis,60,E:\Multimedia\LabTask\Kiwis.jpg,Purple
+Watermelon,50,C:\Users\Noureldin\Downloads\103053809-watermelon-fruits-isolated.jpg,Green
+Cherry,60,C:\Users\Noureldin\Downloads\xx0sps7imnqpwvw5ncw9dihsd9x3wboln1quejcidcxdgljcyvmgcwdeykbigfks-.jpg,Red
